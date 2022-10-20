@@ -2,7 +2,7 @@
 ### - 🔭 I’m currently working on Artificial Intelligence，Machine Vision，UAV Rescue，Remote Sensing
 ### - 🌱 I’m currently learning satellite image processing and analysis
 ### - 👯 I’m looking to collaborate on human robot interaction and navigation
-### - 🤔 I’m looking for postdoc positions
+### - 🤔 I’m looking for postdoc positions in the world
 ### - 💬 Ask me about the paper code reproduction
 ### - 📫 How to reach me: changliu@hit.bme.hu
 -->
