@@ -10,7 +10,3 @@
 ######       ---- 🚀Road Condition Detection and Emergency Rescue Recognition Using On-Board UAV in the Wildness
 #### - 📫 How to reach me: changliu@hit.bme.hu; liu.chang@sztaki.hu
 -->
-
-
-
-
