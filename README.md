@@ -1,8 +1,6 @@
 ## Hi there 👋 
-#### - 🔭 I’m currently working on Artificial Intelligence, Machine Vision, UAV Rescue, Remote Sensing, and Autonomous Driving
-#### - 🌱 I’m currently learning satellite image processing and analysis
-#### - 👯 I’m looking to collaborate on human-robot interaction and navigation. social interaction in autonomous driving.
-#### - 🤔 I’m looking for assistant professor or postdoc positions in the world
+#### - 🔭👯 Artificial Intelligence, Machine Vision, UAV Rescue, Remote Sensing, and Autonomous Driving.
+#### - 🌱👯 Satellite image processing and analysis, human-robot interaction and navigation, social interaction in autonomous driving.
 #### - 💬 Ask me about the paper code reproduction 
 ######       ---- 🚀Real-Time Human Detection and Gesture Recognition for On-Board UAV Rescue
 ######       ---- 🚀Gesture Recognition for UAV-based Rescue Operation based on Deep Learning
