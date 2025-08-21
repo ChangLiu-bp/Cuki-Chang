@@ -1,6 +1,6 @@
 Hi there 👋
 
-Chang Liu, PhD – Assistant Professor @ BME, Research Fellow @ HUN-REN SZTAKI
+Dr. Chang (Cuki) Liu – Assistant Professor @ BME, Research Fellow @ HUN-REN SZTAKI
 
 🔭 Research: Artificial Intelligence| Machine Vision| Deep Learning| Autonomous Driving| Remote Sensing
 
