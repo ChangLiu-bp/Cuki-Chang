@@ -2,7 +2,7 @@ Hi there 👋
 
 Chang Liu, PhD – Assistant Professor @ BME, Research Fellow @ HUN-REN SZTAKI
 
-🔭 Research: Artificial Intelligence； Machine Vision； Deep Learning； Autonomous Driving； Remote Sensing
+🔭 Research: Artificial Intelligence| Machine Vision| Deep Learning| Autonomous Driving| Remote Sensing
 
 🌱 Focus: Satellite image analysis, human-robot interaction, UAV navigation, social interaction in autonomous driving
 
